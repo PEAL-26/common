@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "@common/components/form",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "workspaces": [
-    "helpers/currency",
-    "components/select",
-    "hooks/use-outside-click"
-    "examples"
-  ]
+  "description": ""
 }
